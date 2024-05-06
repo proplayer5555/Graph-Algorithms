@@ -1,5 +1,3 @@
-# Graph-Algorithms
-
 # Algorithms in C/C++
 
 This repository contains implementations of various algorithms in C/C++, including Kruskal's algorithm and Reverse-Delete algorithm.
